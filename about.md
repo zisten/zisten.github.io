@@ -5,8 +5,15 @@ subtitle: Just who the hell you think I am?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+A bioinformatics practitioner, graduated from Wuhan University
+of communicating information, with the most instresting in
+programing languages and algrithism.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I was moving towards [Rust] - a systems programming language
+that runs blazingly fast, prevents nearly all segfaults, and
+guarantees thread safety - weeks ago.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Here are some notes and records in developing, both in [Rust]
+and others.
+
+[Rust]: https://www.rust-lang.org/
