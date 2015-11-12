@@ -1,8 +1,8 @@
 - slug: rust
   name: Rust
 
-- slug: tools
-  name: Tools
-
 - slug: perl
   name: Perl
+
+- slug: tools
+  name: Tools
